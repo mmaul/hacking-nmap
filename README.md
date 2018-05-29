@@ -1,5 +1,5 @@
 # hacking-nmap
-[hacking-nmap](https://github.com/mmaul/hacking-nmap/blob/master/hacking-nmap.ipynb "") is a Jupyter Notebook turorial about hacking NMap. 
+[hacking-nmap](https://github.com/mmaul/hacking-nmap/blob/master/hacking-nmap.ipynb "") is a Jupyter Notebook tutorial about hacking NMap. 
 
 In hacking-hmap we provide a brief introduction to NMap, NMap scripting, how to use NMap to locate a vulnerable system and take advantage of it. In the course of this tutorial you are exposed to various elements of Bash shell, Python, NMap, NMap Scripting, the Lua scripting language, Git Source Code control, reconnaissance and attack techniques.
 
